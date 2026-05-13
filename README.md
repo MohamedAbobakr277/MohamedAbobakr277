@@ -31,47 +31,56 @@
 
 ## 👨‍💻 Professional Summary
 
-> **Computer Science Student @ Cairo University (Top 7 Academic Rank) | Backend Software Engineer**
-> *Architecting robust systems and high-performance applications within the .NET ecosystem.*
+<div align="center">
+  <h3><b>Computer Science Student @ Cairo University (Top 7 Academic Rank) <br> Backend Software Engineer</b></h3>
+  <p><i>Architecting robust systems and high-performance applications within the .NET ecosystem.</i></p>
+</div>
 
 I am a dedicated software engineer specializing in designing scalable backend architectures, engineering RESTful APIs, and building comprehensive full-stack web applications. Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-*   **`Technical Focus`** — Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).
-*   **`Competitive Programming`** — **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).
-*   **`Current Objective`** — Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth.
+<br>
+
+| 🎯 Focus Area | 💡 Details |
+| :--- | :--- |
+| ⚙️ **Technical Focus** | Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework). |
+| 🏆 **Competitive Programming** | **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University). |
+| 🚀 **Current Objective** | Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth. |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" style="width: 33%; vertical-align: top;">
-      <h3>💻 Languages</h3>
-      <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" /><br><br>
-      <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /><br><br>
-      <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" /><br><br>
-      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><br><br>
-      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    </td>
-    <td align="center" style="width: 33%; vertical-align: top;">
-      <h3>⚙️ Backend & DBs</h3>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET Core" /><br><br>
-      <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" /><br><br>
-      <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" alt="Entity Framework" /><br><br>
-      <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API" /><br><br>
-      <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" alt="JWT Auth" />
-    </td>
-    <td align="center" style="width: 33%; vertical-align: top;">
-      <h3>🛠️ Frontend & Tools</h3>
-      <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /><br><br>
-      <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /><br><br>
-      <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /><br><br>
-      <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /><br><br>
-      <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" title="C#" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" style="margin: 0 12px;"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" style="margin: 0 15px;"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="SQL Server" title="SQL Server" style="margin: 0 15px;"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" style="margin: 0 5px;"/>
+</p>
+
+### 🛠️ Frontend & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="margin: 0 12px;"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50" height="50" alt="Postman" title="Postman" style="margin: 0 12px;"/>
+</p>
+
+</div>
 
 ---
 
