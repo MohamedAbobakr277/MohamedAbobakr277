@@ -129,17 +129,18 @@ Robust console-based examination engine with 3 question types and dual exam mode
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Competitive Programming
-**Platform:** Codeforces — Pupil Rank
+### 📖 [Library Management System](https://github.com/MohamedAbobakr277/library-management-system-java)
+**Context:** OOP & Data Structures in Java
 
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-007396?style=flat-square)
+![Data Structures](https://img.shields.io/badge/HashMap-ArrayList-4A90D9?style=flat-square)
 
-Consistent competitive programmer with a strong algorithmic foundation.
+Console-based library system managing books, members, and borrowing workflows — built to demonstrate deep OOP fundamentals.
 
-- 🧠 **600+ problems** solved on Codeforces
-- 🥅 **ECPC 2025** Qualifications participant
-- 🏅 **5th place** at Cairo University · **70th nationally**
+- 🗂️ **HashMap + ArrayList** for O(1) book & member lookups
+- 📦 Full **encapsulation & abstraction** across `Book`, `Member`, `Library`
+- 🔄 Complete **borrow/return lifecycle** with availability tracking
 
 </td>
 </tr>
