@@ -7,36 +7,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDB0&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Cairo+University;Backend+%26+Full-Stack+.NET+Developer;Competitive+Programmer;Building+Scalable+Software+Systems" alt="Typing SVG" />
 </a>
 
-<br>
-
-<table border="0">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://mohamedabobakr.netlify.app">
-        <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Portfolio" /><br>
-        <sub><b>P O R T F O L I O</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://linkedin.com/in/mohamed-abobakr-cs">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn" /><br>
-        <sub><b>L I N K E D I N</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://codeforces.com/profile/MohamedAbobakr">
-        <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50" height="50" alt="Codeforces" /><br>
-        <sub><b>C O D E F O R C E S</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="mailto:mabobakr277@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email" /><br>
-        <sub><b>E M A I L</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="margin: 25px 0;">
+  <a href="https://mohamedabobakr.netlify.app" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/MohamedAbobakr" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
+  </a>
+  <a href="mailto:mabobakr277@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 </div>
 
@@ -132,9 +116,9 @@
 
 A centralized web-based maintenance management system tracking the full lifecycle of infrastructure issues—from citizen submission through admin review, scheduling, and resolution.
 
-*   **Architecture**: Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** following **Clean Architecture** principles.
-*   **Security**: Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
-*   **Testing**: Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
+*   **Architecture:** Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** adhering strictly to **Clean Architecture** principles.
+*   **Security:** Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
+*   **Testing:** Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
 
 <br>
 
@@ -145,8 +129,8 @@ A centralized web-based maintenance management system tracking the full lifecycl
 
 A focused, secure marketplace tailored for university students to trade textbooks and academic tools at discounted prices.
 
-*   **Features**: Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system (replacing the standard shopping cart).
-*   **UI/UX**: Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
+*   **Features:** Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system allowing users to effortlessly bookmark items.
+*   **UI/UX:** Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
 
 <br>
 
@@ -157,8 +141,8 @@ A focused, secure marketplace tailored for university students to trade textbook
 
 A highly robust, console-based examination engine utilizing three distinct question types and dual exam modes (Practice vs. Final).
 
-*   **Design Patterns**: Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
-*   **Architecture**: Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
+*   **Design Patterns:** Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
+*   **Architecture:** Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
 
 ---
 
@@ -168,7 +152,7 @@ A highly robust, console-based examination engine utilizing three distinct quest
 | :--- | :--- |
 | **National Competitions** | 🏅 **ECPC 2025 Qualifications** (5th place at Cairo University · 70th nationally) |
 | **Academic Excellence** | 🎓 **Ranked 7th** in the Computer Science department |
-| **Professional Training** | 💻 **DEPI Full-Stack .NET Track** Trainee |
+| **Professional Training** | 💻 **DEPI Full-Stack .NET Track** (Dec 2025 → Jul 2026) |
 
 ---
 
