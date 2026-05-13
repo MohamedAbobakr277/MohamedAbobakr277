@@ -14,6 +14,9 @@
   <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/MohamedAbobakr277" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://codeforces.com/profile/MohamedAbobakr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
   </a>
@@ -28,24 +31,18 @@
 
 ## 👨‍💻 Professional Summary
 
-<div align="center">
-  <h3><b>Computer Science Student @ Cairo University (Top 7 Academic Rank) <br> Backend Software Engineer</b></h3>
-  <p><i>Architecting robust systems and high-performance applications within the .NET ecosystem.</i></p>
-</div>
+> **Computer Science Student @ Cairo University (Top 7 Academic Rank) | Backend Software Engineer**
+> *Architecting robust systems and high-performance applications within the .NET ecosystem.*
 
 I am a dedicated software engineer specializing in designing scalable backend architectures, engineering RESTful APIs, and building comprehensive full-stack web applications. Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-<br>
-
-| 🎯 Focus Area | 💡 Details |
-| :--- | :--- |
-| ⚙️ **Technical Focus** | Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework). |
-| 🏆 **Competitive Programming** | **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University). |
-| 🚀 **Current Objective** | Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth. |
+*   **`Technical Focus`** — Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).
+*   **`Competitive Programming`** — **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).
+*   **`Current Objective`** — Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <table width="100%">
   <tr>
