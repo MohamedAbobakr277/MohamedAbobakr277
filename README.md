@@ -9,7 +9,7 @@
 
 <div style="margin: 25px 0;">
   <a href="https://mohamedabobakr.netlify.app" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -46,14 +46,33 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" /> <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+### 💻 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" title="C#" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" style="margin: 0 12px;"/>
+</p>
 
-### Backend & Databases
-<img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" /> <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" /> <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" />
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" style="margin: 0 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="55" height="55" alt="SQL Server" title="SQL Server" style="margin: 0 15px;"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" style="margin: 0 5px;"/>
+</p>
 
-### Frontend & Tools
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+### 🛠️ Frontend & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="margin: 0 12px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" title="Postman" style="margin: 0 12px;"/>
+</p>
 
 </div>
 
@@ -61,26 +80,40 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 
 ## 🚀 Featured Projects
 
-> ### 🔧 FixIt — Smart Issue Reporting Platform
-> *DEPI Graduation Project · Full-Stack .NET · Team Leader*  
-> A centralized web-based maintenance management system tracking the full lifecycle of infrastructure issues—from citizen submission through admin review, scheduling, and resolution.
-> *   **Architecture:** Built with ASP.NET Core MVC, SQL Server, and Entity Framework Core following Clean Architecture principles.
-> *   **Security:** Role-based authentication (Citizen/Admin) using JWT & ASP.NET Identity.
-> *   **Testing:** Fully documented RESTful API with xUnit testing and a comprehensive Postman suite.
-> *   🔗 [View Repository](https://github.com/MohamedAbobakr277/FixIt)
+### [🔧 FixIt — Smart Issue Reporting Platform](https://github.com/MohamedAbobakr277/FixIt)
+**Role:** Team Leader & Full-Stack Developer | **Context:** DEPI Graduation Project
 
-> ### 📚 UniTrade — Student Marketplace
-> *Peer-to-peer Platform · JavaScript, HTML5, CSS3*  
-> A focused marketplace for university students to trade textbooks and academic tools at discounted prices.
-> *   **Features:** Product discovery, responsive device design, and a custom "Favorites" system to easily bookmark items.
-> *   🔗 [View Repository](https://github.com/MohamedAbobakr277/UniTrade)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111111?style=flat-square&logo=dotnet&logoColor=512BD4) ![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-111111?style=flat-square&logo=nuget&logoColor=004880) ![JWT](https://img.shields.io/badge/JWT_Auth-111111?style=flat-square&logo=jsonwebtokens&logoColor=E00097)
 
-> ### 📝 Advanced Exam Engine System
-> *Advanced OOP Design · C#*  
-> A robust, console-based exam engine utilizing three distinct question types and dual exam modes (Practice/Final).
-> *   **Design Patterns:** Abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces.
-> *   **Architecture:** Event-driven architecture utilizing C# events, delegates, custom collections (`QuestionList`), and file I/O persistence.
-> *   🔗 [View Repository](https://github.com/MohamedAbobakr277/DEPI-Tasks/tree/main/CSharpProjectSolution)
+A centralized web-based maintenance management system tracking the full lifecycle of infrastructure issues—from citizen submission through admin review, scheduling, and resolution.
+
+*   **Architecture:** Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** adhering strictly to **Clean Architecture** principles.
+*   **Security:** Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
+*   **Testing:** Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
+
+<br>
+
+### [📚 UniTrade — Student Marketplace](https://github.com/MohamedAbobakr277/UniTrade)
+**Context:** Peer-to-peer University Platform
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+
+A focused, secure marketplace tailored for university students to trade textbooks and academic tools at discounted prices.
+
+*   **Features:** Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system allowing users to effortlessly bookmark items.
+*   **UI/UX:** Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
+
+<br>
+
+### [📝 Advanced Exam Engine System](https://github.com/MohamedAbobakr277/DEPI-Tasks/tree/main/CSharpProjectSolution)
+**Context:** Advanced OOP Design Challenge
+
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=512BD4)
+
+A highly robust, console-based examination engine utilizing three distinct question types and dual exam modes (Practice vs. Final).
+
+*   **Design Patterns:** Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
+*   **Architecture:** Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
 
 ---
 
@@ -94,28 +127,9 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 
 ---
 
-## 📜 Interactive Certifications
-
-<details>
-  <summary><b>✨ Click to view my Certifications</b></summary>
-  <br/>
-  <ul>
-    <li><b>Full-Stack .NET Development</b> — Digital Egypt Pioneers Initiative (DEPI)</li>
-    <li><b>Introduction to Software Engineering</b> — IBM</li>
-    <li><b>GitHub Foundations</b> — DataCamp</li>
-    <li><b>SQL Intermediate</b> — HackerRank</li>
-    <li><b>Principles of Writing Clean Code</b> — MaharaTech</li>
-  </ul>
-</details>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=0F6E56&text_color=666&ring_color=0F6E56&include_all_commits=true&count_private=true)](https://github.com/MohamedAbobakr277)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=666&langs_count=6)](https://github.com/MohamedAbobakr277)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=666&dates=666&stroke=0F6E56)](https://github.com/MohamedAbobakr277)
 
