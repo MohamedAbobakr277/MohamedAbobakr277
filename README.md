@@ -165,8 +165,16 @@ Console-based library system managing books, members, and borrowing workflows â€
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&count_private=true&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=GitHub+Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&hide_border=true&title_color=0F6E56&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="170"/>
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAbobakr277&theme=github_dark" width="100%"/>
+</a>
+
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAbobakr277&theme=github_dark" width="49%"/>
+</a>
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAbobakr277&theme=github_dark" width="49%"/>
+</a>
 
 <br/>
 
