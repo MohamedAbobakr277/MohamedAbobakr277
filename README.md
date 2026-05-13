@@ -29,19 +29,28 @@
 ## 👨‍💻 Professional Summary
 
 <div align="center">
-  <h3><b>Computer Science Student @ Cairo University (Top 7 Academic Rank) <br> Backend Software Engineer</b></h3>
+  <h3><b>Computer Science Student @ Cairo University <br> Backend Software Engineer</b></h3>
   <p><i>Architecting robust systems and high-performance applications within the .NET ecosystem.</i></p>
 </div>
 
-I am a dedicated software engineer specializing in designing scalable backend architectures, engineering RESTful APIs, and building comprehensive full-stack web applications. Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
+> I am a dedicated software engineer specializing in designing scalable backend architectures, engineering RESTful APIs, and building comprehensive full-stack web applications. Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
 
 <br>
 
-| 🎯 Focus Area | 💡 Details |
-| :--- | :--- |
-| ⚙️ **Technical Focus** | Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework). |
-| 🏆 **Competitive Programming** | **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University). |
-| 🚀 **Current Objective** | Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth. |
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">⚙️ <b>Technical Focus</b></td>
+    <td>Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).</td>
+  </tr>
+  <tr>
+    <td valign="top">🏆 <b>Competitive Programming</b></td>
+    <td><b>Pupil Rank</b> on Codeforces (600+ problems solved) and <b>ECPC 2025 Qualifications</b> participant (5th place at Cairo University).</td>
+  </tr>
+  <tr>
+    <td valign="top">🚀 <b>Current Objective</b></td>
+    <td>Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth.</td>
+  </tr>
+</table>
 
 ---
 
@@ -71,11 +80,12 @@ I am a dedicated software engineer specializing in designing scalable backend ar
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL Server" title="SQL Server" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nuget/004880" width="60" height="60" alt="Entity Framework" title="Entity Framework" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="60" height="60" alt="REST API" title="REST API" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jsonwebtokens/E00097" width="60" height="60" alt="JWT Auth" title="JWT Auth" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=.net&logoColor=512BD4" alt="Entity Framework" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST API" />
 </p>
 <br>
 
