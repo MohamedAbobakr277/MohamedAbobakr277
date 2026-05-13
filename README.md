@@ -14,9 +14,6 @@
   <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MohamedAbobakr277" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://codeforces.com/profile/MohamedAbobakr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
   </a>
@@ -53,31 +50,47 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 <div align="center">
 
 ### 💻 Languages
+<br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" title="C#" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" title="C#" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript" />
 </p>
+<br>
 
 ### ⚙️ Backend & Databases
+<br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" style="margin: 0 15px;"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="SQL Server" title="SQL Server" style="margin: 0 15px;"/>
-  <br><br>
-  <img src="https://cdn.simpleicons.org/nuget/004880" width="50" height="50" alt="Entity Framework" title="Entity Framework" style="margin: 0 15px;"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="REST API" title="REST API" style="margin: 0 15px;"/>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/E00097" width="50" height="50" alt="JWT Auth" title="JWT Auth" style="margin: 0 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL Server" title="SQL Server" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nuget/004880" width="60" height="60" alt="Entity Framework" title="Entity Framework" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="60" height="60" alt="REST API" title="REST API" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/E00097" width="60" height="60" alt="JWT Auth" title="JWT Auth" />
 </p>
+<br>
 
 ### 🛠️ Frontend & Tools
+<br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="margin: 0 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="margin: 0 12px;"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50" height="50" alt="Postman" title="Postman" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="60" height="60" alt="Postman" title="Postman" />
 </p>
 
 </div>
