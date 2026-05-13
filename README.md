@@ -48,29 +48,30 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" title="C#" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" style="margin: 0 12px;"/>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET Core" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" alt="Entity Framework" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" alt="JWT Auth" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" style="margin: 0 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="55" height="55" alt="SQL Server" title="SQL Server" style="margin: 0 15px;"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" style="margin: 0 5px;"/>
 </p>
 
 ### 🛠️ Frontend & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="margin: 0 12px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" title="Postman" style="margin: 0 12px;"/>
 </p>
 
 </div>
