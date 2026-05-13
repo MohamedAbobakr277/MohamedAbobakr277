@@ -144,7 +144,7 @@ A centralized web-based maintenance management system tracking infrastructure is
 
 A focused, secure marketplace tailored for university students to trade textbooks and academic tools.
 
-*   **Features**: Seamless product discovery, responsive design, and a custom **"Favorites"** system.
+*   **Features**: Seamless product discovery, responsive design, and a custom **"Favorites"** system (replacing the standard shopping cart).
 
 ---
 
@@ -164,11 +164,11 @@ A focused, secure marketplace tailored for university students to trade textbook
 
 | **Core Statistics** | **Language Distribution** |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed Abobakr Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=tokyonight&hide_border=true" alt="Mohamed Abobakr Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Abobakr Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Abobakr Languages" /> |
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=tokyonight&hide_border=true)](https://github.com/MohamedAbobakr277)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MohamedAbobakr277)
 
 </div>
 
