@@ -66,9 +66,9 @@ I am a dedicated software engineer specializing in designing scalable backend ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" title="ASP.NET Core" style="margin: 0 15px;"/>
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="SQL Server" title="SQL Server" style="margin: 0 15px;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" style="margin: 0 5px;"/>
+  <img src="https://cdn.simpleicons.org/nuget/004880" width="50" height="50" alt="Entity Framework" title="Entity Framework" style="margin: 0 15px;"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="REST API" title="REST API" style="margin: 0 15px;"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/E00097" width="50" height="50" alt="JWT Auth" title="JWT Auth" style="margin: 0 15px;"/>
 </p>
 
 ### 🛠️ Frontend & Tools
