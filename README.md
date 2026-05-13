@@ -45,38 +45,36 @@ I am a dedicated software engineer specializing in designing scalable backend ar
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-<div align="center">
-
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin: 5px;"/>
-</p>
-
-### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET Core" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" alt="Entity Framework" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" alt="JWT Auth" style="margin: 5px;"/>
-</p>
-
-### 🛠️ Frontend & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" style="margin: 5px;"/>
-</p>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" style="width: 33%; vertical-align: top;">
+      <h3>💻 Languages</h3>
+      <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" /><br><br>
+      <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /><br><br>
+      <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" /><br><br>
+      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    </td>
+    <td align="center" style="width: 33%; vertical-align: top;">
+      <h3>⚙️ Backend & DBs</h3>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET Core" /><br><br>
+      <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" /><br><br>
+      <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" alt="Entity Framework" /><br><br>
+      <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API" /><br><br>
+      <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" alt="JWT Auth" />
+    </td>
+    <td align="center" style="width: 33%; vertical-align: top;">
+      <h3>🛠️ Frontend & Tools</h3>
+      <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /><br><br>
+      <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /><br><br>
+      <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /><br><br>
+      <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /><br><br>
+      <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
