@@ -4,7 +4,7 @@
 
 <!-- Interactive Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDB0&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Cairo+University;Backend+%26+Full-Stack+.NET+Developer;Competitive+Programmer+(Codeforces);Building+Scalable+Software+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDB0&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Cairo+University;Backend+%26+Full-Stack+.NET+Developer;Competitive+Programmer;Building+Scalable+Software+Systems" alt="Typing SVG" />
 </a>
 
 <div style="margin: 25px 0;">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/MohamedAbobakr" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Codeforces-MohamedAbobakr-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
   </a>
   <a href="mailto:mabobakr277@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -31,13 +31,14 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Computer Science student** at Cairo University (**ranked 7th academically** in my department) and a dedicated **Backend Software Engineer**. My core expertise lies in designing robust system architectures, engineering scalable APIs, and building high-performance full-stack web applications within the **.NET ecosystem**.
+> **Computer Science Student @ Cairo University (Top 7 Academic Rank) | Backend Software Engineer**
+> *Architecting robust systems and high-performance applications within the .NET ecosystem.*
 
-Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
+I am a dedicated software engineer specializing in designing scalable backend architectures, engineering RESTful APIs, and building comprehensive full-stack web applications. Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-*   ⚙️ **Technical Focus:** Backend architecture, scalable RESTful APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).
-*   🏆 **Competitive Programming:** **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).
-*   🚀 **Current Goal:** Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate my professional growth.
+*   **`Technical Focus`** — Backend architecture, scalable APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).
+*   **`Competitive Programming`** — **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).
+*   **`Current Objective`** — Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate professional growth.
 
 ---
 
