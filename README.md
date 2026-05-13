@@ -9,16 +9,19 @@
 
 <div style="margin: 25px 0;">
   <a href="https://mohamedabobakr.netlify.app" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/MohamedAbobakr" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50" height="50" alt="Codeforces" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mabobakr277@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email" />
   </a>
 </div>
 
@@ -44,7 +47,7 @@
   </tr>
   <tr>
     <td valign="top">🏆 <b>Competitive Programming</b></td>
-    <td><b>Pupil Rank</b> on Codeforces (600+ problems solved) and <b>ECPC 2025 Qualifications</b> participant (5th place at Cairo University).</td>
+    <td><b>Pupil Rank</b> on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).</td>
   </tr>
   <tr>
     <td valign="top">🚀 <b>Current Objective</b></td>
@@ -116,9 +119,9 @@
 
 A centralized web-based maintenance management system tracking the full lifecycle of infrastructure issues—from citizen submission through admin review, scheduling, and resolution.
 
-*   **Architecture:** Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** adhering strictly to **Clean Architecture** principles.
-*   **Security:** Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
-*   **Testing:** Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
+*   **Architecture**: Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** adhering strictly to **Clean Architecture** principles.
+*   **Security**: Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
+*   **Testing**: Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
 
 <br>
 
@@ -129,8 +132,8 @@ A centralized web-based maintenance management system tracking the full lifecycl
 
 A focused, secure marketplace tailored for university students to trade textbooks and academic tools at discounted prices.
 
-*   **Features:** Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system allowing users to effortlessly bookmark items.
-*   **UI/UX:** Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
+*   **Features**: Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system allowing users to effortlessly bookmark items.
+*   **UI/UX**: Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
 
 <br>
 
@@ -141,8 +144,8 @@ A focused, secure marketplace tailored for university students to trade textbook
 
 A highly robust, console-based examination engine utilizing three distinct question types and dual exam modes (Practice vs. Final).
 
-*   **Design Patterns:** Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
-*   **Architecture:** Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
+*   **Design Patterns**: Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
+*   **Architecture**: Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
 
 ---
 
