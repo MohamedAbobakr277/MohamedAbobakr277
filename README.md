@@ -134,7 +134,7 @@ A centralized web-based maintenance management system tracking the full lifecycl
 
 *   **Architecture**: Engineered with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core** following **Clean Architecture** principles.
 *   **Security**: Implemented robust role-based authentication (Citizen/Admin) utilizing **JWT** & **ASP.NET Identity**.
-*   **Testing**: Delivered a fully documented RESTful API supported by a comprehensive **Postman** suite.
+*   **Testing**: Delivered a fully documented RESTful API supported by **xUnit** testing and a comprehensive **Postman** suite.
 
 <br>
 
@@ -143,9 +143,9 @@ A centralized web-based maintenance management system tracking the full lifecycl
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
 
-A focused, secure marketplace tailored for university students to trade textbooks and academic tools.
+A focused, secure marketplace tailored for university students to trade textbooks and academic tools at discounted prices.
 
-*   **Features**: Seamless product discovery, responsive design, and a custom **"Favorites"** system.
+*   **Features**: Seamless product discovery, responsive cross-device design, and a custom **"Favorites"** system (replacing the standard shopping cart).
 *   **UI/UX**: Designed with a student-first approach focusing on intuitive navigation and clean aesthetics.
 
 <br>
@@ -155,10 +155,10 @@ A focused, secure marketplace tailored for university students to trade textbook
 
 ![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=512BD4)
 
-A robust, console-based examination engine utilizing three distinct question types and dual exam modes.
+A highly robust, console-based examination engine utilizing three distinct question types and dual exam modes (Practice vs. Final).
 
-*   **Design Patterns**: Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces.
-*   **Architecture**: Engineered an event-driven architecture utilizing **C# events**, **delegates**, and reliable **file I/O** persistence.
+*   **Design Patterns**: Architected an abstract `Question` base utilizing `ICloneable` and `IComparable` interfaces for deep copy and sorting capabilities.
+*   **Architecture**: Engineered an event-driven architecture utilizing **C# events**, **delegates**, custom collections (`QuestionList`), and reliable **file I/O** persistence for state management.
 
 ---
 
