@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Abobakr&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20.NET%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,1D9E75&height=180&section=header&text=Mohamed%20Abobakr&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20.NET%20Developer&descAlignY=58&descSize=17&descColor=d0f0e8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+.NET+Developer;CS+Student+%40+Cairo+University+%7C+Ranked+7th;ECPC+2025+Qualifier+%7C+5th+%40+Cairo+University;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=1D9E75&center=true&vCenter=true&width=620&lines=Backend+%26+Full-Stack+.NET+Developer;CS+Student+%40+Cairo+University+%7C+Ranked+7th;ECPC+2025+Qualifier+%7C+5th+%40+Cairo+University;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohamedabobakr.netlify.app-0F6E56?style=for-the-badge&logoColor=white)](https://mohamedabobakr.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedabobakr.netlify.app-0F6E56?style=for-the-badge&logo=netlify&logoColor=white)](https://mohamedabobakr.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-abobakr-cs)
-[![Email](https://img.shields.io/badge/Gmail-mabobakr277-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabobakr277@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mabobakr277%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabobakr277@gmail.com)
 
 <br/>
 
@@ -21,78 +21,73 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
 ```yaml
 Name        : Mohamed Abobakr Ahmed
-Location    : Cairo, Egypt 🇪🇬
+Location    : Cairo, Egypt
 University  : Cairo University — Faculty of Science
-Major       : Computer Science (3rd Year)
-Rank        : 7th in department  |  GPA: 3.0/5.0 (Very Good)
-Training    : Full-Stack .NET Trainee @ DEPI (Dec 2025 → Jul 2026)
+Major       : Computer Science  (3rd Year)
+Rank        : 7th in department  |  GPA: 3.0 / 5.0  (Very Good)
+Training    : Full-Stack .NET Trainee @ DEPI  (Dec 2025 → Jul 2026)
 Competitive : ECPC 2025 — 5th @ Cairo University · 70th Nationally
-Status      : Open to backend & full-stack internship opportunities 🚀
+Status      : Open to backend & full-stack internship opportunities
 ```
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🔭 Currently building **FixIt** — a smart infrastructure issue reporting platform
-- 🌱 Deepening expertise in **ASP.NET Core**, **EF Core**, **JWT Auth** & **Clean Architecture**
-- 💡 Passionate about **system design**, **clean code**, and **scalable APIs**
-- 🏆 Competed in **ECPC 2025** — solved complex algorithmic problems under time pressure in C++
-- 🎓 Ranked **7th out of my entire CS department** at Cairo University
-- 📫 Reach me at **mabobakr277@gmail.com**
-- 🌐 Portfolio: **[mohamedabobakr.netlify.app](https://mohamedabobakr.netlify.app)**
-
-<br clear="right"/>
+- Currently building **FixIt** — a smart infrastructure issue reporting platform
+- Deepening expertise in **ASP.NET Core**, **EF Core**, **JWT Auth** & **Clean Architecture**
+- Passionate about **system design**, **clean code**, and **scalable APIs**
+- Competed in **ECPC 2025** — solved complex algorithmic problems under pressure in C++
+- Ranked **7th out of my entire CS department** at Cairo University
+- Reach me at **mabobakr277@gmail.com**
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-0078D4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-1D9E75?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xUnit-1D9E75?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
-### 🧠 Core CS Concepts
+### Core CS Concepts
 <p>
   <img src="https://img.shields.io/badge/OOP-0F6E56?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Structures-0F6E56?style=for-the-badge"/>
@@ -104,14 +99,15 @@ Status      : Open to backend & full-stack internship opportunities 🚀
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 FixIt — Smart Issue Reporting
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+### FixIt — Smart Issue Reporting
+
+![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)
 ![Role](https://img.shields.io/badge/Role-Team_Leader-1D9E75?style=flat-square)
 
 > DEPI Graduation Project · Full-Stack .NET
@@ -119,21 +115,22 @@ Status      : Open to backend & full-stack internship opportunities 🚀
 Web-based infrastructure maintenance platform tracking the **full lifecycle** of issue reports — from citizen submission to resolution and satisfaction rating.
 
 **Key Features:**
-- 🔐 Role-based auth (Citizen / Admin) via **JWT & ASP.NET Identity**
-- 📊 Centralized admin dashboard with filtering & status tracking
-- ✅ RESTful API with **xUnit** unit tests + Postman suite
-- 🏗️ Clean Architecture · EF Core · SQL Server
+- Role-based auth (Citizen / Admin) via **JWT & ASP.NET Identity**
+- Centralized admin dashboard with filtering & status tracking
+- RESTful API with **xUnit** unit tests + Postman suite
+- Clean Architecture · EF Core · SQL Server
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-0078D4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1D9E75?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohamedAbobakr277/FixIt)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 UniTrade — Student Marketplace
+### UniTrade — Student Marketplace
+
 ![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/MohamedAbobakr277/UniTrade?style=flat-square&color=0F6E56)
 
@@ -142,10 +139,10 @@ Web-based infrastructure maintenance platform tracking the **full lifecycle** of
 Secure marketplace for trading **textbooks and academic tools** at discounted prices — easing financial burdens for students.
 
 **Key Features:**
-- 🔒 Secure peer-to-peer transactions
-- 🔍 Product discovery and listing flow
-- 📱 Responsive UI for all devices
-- 💬 Student-focused UX design
+- Secure peer-to-peer transactions
+- Product discovery and listing flow
+- Responsive UI for all devices
+- Student-focused UX design
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -158,29 +155,31 @@ Secure marketplace for trading **textbooks and academic tools** at discounted pr
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Exam System — C# OOP Engine
+### Exam System — C# OOP Engine
+
 ![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=flat-square)
-![Type](https://img.shields.io/badge/Type-OOP_Design-512BD4?style=flat-square)
+![Type](https://img.shields.io/badge/Type-OOP_Design-0078D4?style=flat-square)
 
 > DEPI .NET Training · Advanced OOP
 
 Console-based exam engine with **3 question types** and **2 exam modes** (Practice / Final).
 
 **Key Highlights:**
-- 🏛️ Abstract `Question` base: `ICloneable` + `IComparable`
-- ⚡ C# **events, delegates**, real-time scoring
-- 📁 File I/O logging via custom `QuestionList`
-- 🎯 ExamMode enum · Clean OOP patterns
+- Abstract `Question` base: `ICloneable` + `IComparable`
+- C# **events, delegates**, real-time scoring
+- File I/O logging via custom `QuestionList`
+- ExamMode enum · Clean OOP patterns
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0078D4?style=flat-square&logo=dotnet&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohamedAbobakr277/DEPI-Tasks/tree/main/CSharpProjectSolution)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Library Management System
+### Library Management System
+
 ![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=flat-square)
 ![Lang](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square)
 
@@ -189,10 +188,10 @@ Console-based exam engine with **3 question types** and **2 exam modes** (Practi
 Full library system with **CRUD operations** and clean object-oriented design.
 
 **Key Highlights:**
-- 📖 Full book & member management
-- 🔄 Borrowing / return workflows
-- 🏗️ Clean OOP class hierarchy
-- ☕ Java best practices throughout
+- Full book & member management
+- Borrowing / return workflows
+- Clean OOP class hierarchy
+- Java best practices throughout
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-0F6E56?style=flat-square)
@@ -205,41 +204,41 @@ Full library system with **CRUD operations** and clean object-oriented design.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| 🎖️ | Achievement | Organization | Date |
-|:---:|:---|:---|:---:|
-| 🥇 | **ECPC 2025** — 5th place @ Cairo University · 70th Nationally | Egyptian Collegiate Programming Contest | Aug 2025 |
-| 📚 | **Ranked 7th** in CS Department · GPA 3.0/5.0 (Very Good) | Cairo University | Ongoing |
-| 🎓 | **Full-Stack .NET Trainee** — DEPI Program | Digital Egypt Pioneers Initiative | Dec 2025 → Jul 2026 |
-| 💻 | **Competitive Programming** — ICPC Assiut + Cairo Science CPC | ICPC Community | Jan 2024 → Present |
+| Achievement | Organization | Date |
+|:---|:---|:---:|
+| **ECPC 2025** — 5th place @ Cairo University · 70th Nationally | Egyptian Collegiate Programming Contest | Aug 2025 |
+| **Ranked 7th** in CS Department · GPA 3.0/5.0 (Very Good) | Cairo University | Ongoing |
+| **Full-Stack .NET Trainee** — DEPI Program | Digital Egypt Pioneers Initiative | Dec 2025 → Jul 2026 |
+| **Competitive Programming** — ICPC Assiut + Cairo Science CPC | ICPC Community | Jan 2024 → Present |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-| Badge | Certification | Issuer | Date |
-|:---:|:---|:---:|:---:|
-| 🟣 | **Software Development — Full-Stack .NET** | DEPI | Dec 2025 → Present |
-| 🔵 | **Introduction to Software Engineering** | IBM | Jan 2026 |
-| 🐙 | **GitHub Foundations** | DataCamp | Dec 2025 |
-| 🟠 | **Git and GitHub** | Almadrasa | Dec 2025 |
-| 🟢 | **SQL Intermediate** | HackerRank | Dec 2025 |
-| 🟢 | **SQL Fundamentals** | DataCamp | Nov 2025 |
-| 🏅 | **ECPC Qualifications** | Egyptian Collegiate Programming Contest | Aug 2025 |
-| ✨ | **Principles of Writing Clean Code** | MaharaTech | Jun 2025 |
+| Certification | Issuer | Date |
+|:---|:---:|:---:|
+| **Software Development — Full-Stack .NET** | DEPI | Dec 2025 → Present |
+| **Introduction to Software Engineering** | IBM | Jan 2026 |
+| **GitHub Foundations** | DataCamp | Dec 2025 |
+| **Git and GitHub** | Almadrasa | Dec 2025 |
+| **SQL Intermediate** | HackerRank | Dec 2025 |
+| **SQL Fundamentals** | DataCamp | Nov 2025 |
+| **ECPC Qualifications** | Egyptian Collegiate Programming Contest | Aug 2025 |
+| **Principles of Writing Clean Code** | MaharaTech | Jun 2025 |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -263,7 +262,7 @@ Full library system with **CRUD operations** and clean object-oriented design.
 
 ---
 
-## 🌱 Knowledge Map
+## Knowledge Map
 
 ```mermaid
 mindmap
@@ -289,23 +288,23 @@ mindmap
 
 ---
 
-## 🎯 2025–2026 Goals
+## 2025–2026 Goals
 
-- [x] 🏆 Qualify for ECPC 2025
-- [x] 🎓 Join DEPI Full-Stack .NET Program
-- [x] 🌐 Launch personal portfolio website
-- [ ] 🔧 Ship FixIt MVP (graduation project)
-- [ ] 💼 Land a backend / full-stack internship
-- [ ] 📦 Publish first open-source .NET package
-- [ ] ⭐ Reach 50 GitHub stars across projects
+- [x] Qualify for ECPC 2025
+- [x] Join DEPI Full-Stack .NET Program
+- [x] Launch personal portfolio website
+- [ ] Ship FixIt MVP (graduation project)
+- [ ] Land a backend / full-stack internship
+- [ ] Publish first open-source .NET package
+- [ ] Reach 50 GitHub stars across projects
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Great
+### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-0F6E56?style=for-the-badge)](https://mohamedabobakr.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F6E56?style=for-the-badge&logo=netlify&logoColor=white)](https://mohamedabobakr.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-abobakr-cs)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabobakr277@gmail.com)
 
@@ -315,6 +314,6 @@ mindmap
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,1D9E75&height=100&section=footer" width="100%"/>
 
 </div>
