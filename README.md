@@ -9,19 +9,19 @@
 
 <div style="margin: 25px 0;">
   <a href="https://mohamedabobakr.netlify.app" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=38BDB0" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/mohamed-abobakr-cs" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MohamedAbobakr277" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/MohamedAbobakr277" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/MohamedAbobakr_--_Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="mailto:mabobakr277@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -29,14 +29,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-> I am a third-year **Computer Science student** at Cairo University (**ranked 7th academically** in my department). My core strengths lie in Backend Engineering and System Logic. I specialize in designing and building scalable backend systems, APIs, and full-stack web applications using the **.NET ecosystem**. 
+I am a **Computer Science student** at Cairo University (**ranked 7th academically** in my department) and a dedicated **Backend Software Engineer**. My core expertise lies in designing robust system architectures, engineering scalable APIs, and building high-performance full-stack web applications within the **.NET ecosystem**.
 
-Currently, I am expanding my enterprise-level skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
+Currently, I am elevating my enterprise-level engineering skills as a Full-Stack .NET Trainee at the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-*   💡 **Technical Focus:** Backend architecture, scalable APIs (.NET Core/C#), and relational database design (SQL Server/Entity Framework).
-*   🏆 **Competitive Programming:** **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th at Cairo University).
+*   ⚙️ **Technical Focus:** Backend architecture, scalable RESTful APIs (.NET Core/C#), and relational database engineering (SQL Server/Entity Framework).
+*   🏆 **Competitive Programming:** **Pupil Rank** on Codeforces (600+ problems solved) and **ECPC 2025 Qualifications** participant (5th place at Cairo University).
 *   🚀 **Current Goal:** Seeking a backend or full-stack software engineering internship to contribute to real-world systems and accelerate my professional growth.
 
 ---
@@ -46,13 +46,13 @@ Currently, I am expanding my enterprise-level skills as a Full-Stack .NET Traine
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120" /> <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 ### Backend & Databases
-<img src="https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Entity_Framework-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0F6E56?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/JWT_Auth-1D9E75?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> <img src="https://img.shields.io/badge/Entity_Framework-111111?style=for-the-badge&logo=nuget&logoColor=004880" /> <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" /> <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/JWT_Auth-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=E00097" />
 
 ### Frontend & Tools
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 
 </div>
 
@@ -112,12 +112,12 @@ Currently, I am expanding my enterprise-level skills as a Full-Stack .NET Traine
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAbobakr277&theme=transparent&color=0F6E56&line=38BDB0&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=0F6E56&text_color=666&ring_color=0F6E56&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=666&langs_count=6" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=666&dates=666&stroke=0F6E56" alt="GitHub Streak" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=0F6E56&text_color=666&ring_color=0F6E56&include_all_commits=true&count_private=true)](https://github.com/MohamedAbobakr277)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=666&langs_count=6)](https://github.com/MohamedAbobakr277)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=666&dates=666&stroke=0F6E56)](https://github.com/MohamedAbobakr277)
+
 </div>
 
 ---
