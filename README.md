@@ -126,9 +126,15 @@ Complete library system with clean object-oriented design, built in Java.
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=333333&bg_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=888888&ring_color=0F6E56" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=888888" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&hide_border=true&title_color=0F6E56&text_color=333333&bg_color=ffffff)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888888&dates=888888&currStreakNum=1D9E75&sideNums=1D9E75)
 
 </div>
 
