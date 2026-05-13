@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Abobakr&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%E2%80%A2%20.NET%20%7C%20C%23%20%7C%20SQL%20Server&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0F6E56&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Cairo+University;Backend+Engineer+%7C+.NET+Ecosystem;ECPC+2025+Qualifier+%7C+Top+5+%40+CU;Building+Scalable+Systems+%26+Clean+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0F6E56&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Cairo+University;Backend+Engineer+%7C+.NET+Ecosystem;ECPC+2025+Qualifier;Building+Scalable+Systems+%26+Clean+APIs)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <p>
@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=MohamedAbobakr277&label=Profile+Views&color=0f6e56&style=flat-square" />
 
 </div>
 
@@ -167,12 +165,12 @@ Console-based library system managing books, members, and borrowing workflows â€
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=c9d1d9&bg_color=00000000"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=transparent&hide_border=true&title_color=0F6E56&text_color=c9d1d9&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&count_private=true&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=GitHub+Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&hide_border=true&title_color=0F6E56&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="170"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=666&dates=666&stroke=0F6E56)](https://github.com/MohamedAbobakr277)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=dark&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888&dates=888&stroke=0F6E56&background=0d1117)](https://github.com/MohamedAbobakr277)
 
 </div>
 
