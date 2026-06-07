@@ -1,134 +1,184 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Mohamed Abobakr Banner"/>
+<!-- Premium animated header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Abobakr&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%E2%80%A2%20.NET%20%7C%20C%23%20%7C%20SQL%20Server&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br/>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0F6E56&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Cairo+University;Backend+Engineer+%7C+.NET+Ecosystem;ECPC+2025+Qualifier;Building+Scalable+Systems+%26+Clean+APIs)](https://git.io/typing-svg)
 
-<!-- Interactive Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Full-Stack+.NET+Developer;Competitive+Programmer;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
-</a>
-
-<div style="margin: 20px 0;">
-  <a href="https://mohamedabobakr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/mohamed-abobakr-cs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mabobakr277@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/MohamedAbobakr"><img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/></a>
-</div>
+<!-- Social badges -->
+<p>
+  <a href="https://mohamedabobakr.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-%230F6E56?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed-abobakr-cs">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/MohamedAbobakr">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="mailto:mabobakr277@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        I am a <b>Computer Science Student at Cairo University</b> (ranked in the top 7 academic tier) and a <b>Backend Specialist</b> with a passion for architecting high-performance systems. My expertise lies within the <b>.NET Ecosystem</b>, where I focus on building scalable, secure, and maintainable enterprise-grade applications.
-      </p>
-      <p>
-        🔭 <b>Current Focus:</b> Deepening my knowledge in Microservices Architecture and System Design. <br/>
-        🎓 <b>Education:</b> B.Sc. in Computer Science @ Cairo University (Top 7 Rank). <br/>
-        🏆 <b>Competitive Programming:</b> Pupil Rank on Codeforces, solving 600+ complex algorithmic problems. <br/>
-        🚀 <b>Active Trainee:</b> Full-Stack .NET Track at Digital Egypt Pioneers Initiative (DEPI).
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=10B981&icon_color=10B981" width="300px" />
-    </td>
-  </tr>
-</table>
+I'm a **Backend Software Engineer** and **Computer Science student at Cairo University**, specializing in building scalable, production-grade systems within the **.NET ecosystem**.
+
+```csharp
+var me = new Engineer {
+    Name        = "Mohamed Abobakr",
+    Role        = "Backend Software Engineer (.NET | C#)",
+    University  = "Cairo University — CS Department",
+    Ranked      = "7th in department | 5th place ECPC 2025 @ CU",
+    Training    = "DEPI Full-Stack .NET Track (Dec 2025 → Jul 2026)",
+    Focus       = new[] { "Clean Architecture", "RESTful APIs", "SQL Server", "EF Core" },
+    OpenTo      = "Backend / Full-Stack Internship Opportunities"
+};
+```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,js" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,mysql,postgresql,sqlite,docker" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma" /> |
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js&theme=dark" />
+</p>
 
-</div>
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,sqlserver,docker,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Entity_Framework-%23111111?style=flat-square&logo=.net&logoColor=512BD4&height=48"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-%23111111?style=flat-square&logo=jsonwebtokens&logoColor=E00097"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-%23111111?style=flat-square&logo=.net&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/REST_API-%23111111?style=flat-square&logo=swagger&logoColor=85EA2D"/>
+</p>
+
+### 🎨 Frontend & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 FixIt — Issue Reporting Platform</h3>
-      <p><i>Team Leader & Full-Stack Developer | DEPI Graduation Project</i></p>
-      <p>A centralized infrastructure maintenance system tracking issues from submission to resolution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=flat-square" />
-      </p>
-      <ul>
-        <li>Implemented <b>Clean Architecture</b> & Role-based Auth (JWT).</li>
-        <li>Developed a documented RESTful API with <b>Swagger</b>.</li>
-        <li>Ensured reliability with <b>xUnit</b> testing.</li>
-      </ul>
-      <a href="https://github.com/MohamedAbobakr277/FixIt"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 UniTrade — Student Marketplace</h3>
-      <p><i>Peer-to-peer University Platform</i></p>
-      <p>A secure marketplace for university students to trade textbooks and academic resources.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <ul>
-        <li>Custom <b>Favorites System</b> for bookmarking items.</li>
-        <li>Fully responsive mobile-first design.</li>
-        <li>Optimized for low-latency product discovery.</li>
-      </ul>
-      <a href="https://github.com/MohamedAbobakr277/UniTrade"><b>View Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 Exam Engine System</h3>
-      <p><i>Advanced OOP Design Challenge</i></p>
-      <p>A robust console-based examination engine with multiple modes and question types.</p>
-      <p>
-        <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET_Console-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      </p>
-      <ul>
-        <li>Utilized <b>Abstract Classes</b>, Interfaces, & Events.</li>
-        <li>Custom collections with generic type constraints.</li>
-        <li>File I/O for persistent state management.</li>
-      </ul>
-      <a href="https://github.com/MohamedAbobakr277/DEPI-Tasks/tree/main/CSharpProjectSolution"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.demolab.com?user=MohamedAbobakr277&theme=vision-friendly-dark&hide_border=true&stroke=10B981&fire=10B981&ring=10B981" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 [FixIt — Smart Issue Reporting](https://github.com/MohamedAbobakr277/FixIt)
+**Role:** Team Leader & Full-Stack Developer  
+**Context:** DEPI Graduation Project
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-E00097?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
+
+Centralized maintenance management platform tracking infrastructure issues — from citizen submission through scheduling to resolution.
+
+- 🏗️ **Clean Architecture** with ASP.NET Core MVC + EF Core
+- 🔐 Role-based auth (Citizen/Admin) via **JWT + ASP.NET Identity**
+- 🧪 Fully documented API with **xUnit** tests + Postman suite
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [UniTrade — Student Marketplace](https://github.com/MohamedAbobakr277/UniTrade)
+**Context:** Peer-to-peer University Platform
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Secure marketplace tailored for students to trade textbooks and academic tools at discounted prices.
+
+- 🎯 **Student-first UX** with intuitive navigation
+- ❤️ Custom **Favorites system** to bookmark items
+- 📱 Fully **responsive** cross-device design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Advanced Exam Engine System](https://github.com/MohamedAbobakr277/DEPI-Tasks/tree/main/CSharpProjectSolution)
+**Context:** Advanced OOP Design Challenge
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Robust console-based examination engine with 3 question types and dual exam modes (Practice vs. Final).
+
+- 🧩 Abstract `Question` base with `ICloneable` + `IComparable`
+- ⚡ **Event-driven architecture** via C# events & delegates
+- 💾 Reliable **file I/O persistence** for state management
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 [Library Management System](https://github.com/MohamedAbobakr277/library-management-system-java)
+**Context:** OOP & Data Structures in Java
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-007396?style=flat-square)
+![Data Structures](https://img.shields.io/badge/HashMap-ArrayList-4A90D9?style=flat-square)
+
+Console-based library system managing books, members, and borrowing workflows — built to demonstrate deep OOP fundamentals.
+
+- 🗂️ **HashMap + ArrayList** for O(1) book & member lookups
+- 📦 Full **encapsulation & abstraction** across `Book`, `Member`, `Library`
+- 🔄 Complete **borrow/return lifecycle** with availability tracking
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbobakr277&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=10B981&icon_color=10B981&text_color=ffffff" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbobakr277&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=10B981&icon_color=10B981" alt="Top Languages" width="48%"/>
+| 🎖️ | Achievement | Details |
+|:---:|:---|:---|
+| 🏅 | **ECPC 2025 National Qualifier** | 5th place at Cairo University · 70th nationally |
+| 🎓 | **Academic Excellence** | Ranked **7th** in CS Department at Cairo University |
+| 💻 | **DEPI Full-Stack .NET Track** | Intensive professional training (Dec 2025 → Jul 2026) |
+| 🧠 | **Competitive Programming** | 600+ problems solved · Pupil rank on Codeforces |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAbobakr277&theme=github_dark" width="100%"/>
+</a>
+
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAbobakr277&theme=github_dark" width="49%"/>
+</a>
+<a href="https://github.com/MohamedAbobakr277">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAbobakr277&theme=github_dark" width="49%"/>
+</a>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedAbobakr277&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAbobakr277&theme=dark&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888&dates=888&stroke=0F6E56&background=0d1117)](https://github.com/MohamedAbobakr277)
 
 </div>
 
@@ -136,16 +186,10 @@
 
 <div align="center">
 
-### Let's Build Something Impactful 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*"Simplicity is the soul of efficiency." — Austin Freeman*
+*"First, solve the problem. Then, write the code." — John Johnson*
 
-<div style="margin: 15px 0;">
-  <a href="https://linkedin.com/in/mohamed-abobakr-cs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mabobakr277@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://mohamedabobakr.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-10B981?style=flat&logo=netlify&logoColor=white" /></a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,0D9488,0F766E&height=100&section=footer" width="100%"/>
+**Open to backend / full-stack internship opportunities — let's build something great.**
 
 </div>
